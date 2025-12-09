@@ -1,0 +1,19 @@
+Directorio de trabajo: /home/alumno05/Lab3_Antonio/lab-git
+Listado inicial:
+-rw-rw-r--. 1 alumno05 alumno05 3590340 Dec  9 13:07 Sample1.fastq
+-rw-rw-r--. 1 alumno05 alumno05 3255604 Dec  9 13:07 Sample2.fastq
+-rw-rw-r--. 1 alumno05 alumno05 3589192 Dec  9 13:07 Sample3.fastq
+-rw-rw-r--. 1 alumno05 alumno05 3272948 Dec  9 13:07 Sample4.fastq
+Procesando Sample1.fastq ...
+Procesando Sample2.fastq ...
+Procesando Sample3.fastq ...
+Procesando Sample4.fastq ...
+Corte completado en Sample2.fastq
+Corte completado en Sample4.fastq
+Corte completado en Sample3.fastq
+Corte completado en Sample1.fastq
+Listado final:
+-rw-rw-r--. 1 alumno05 alumno05 718404 Dec  9 13:13 Sample1.fastq
+-rw-rw-r--. 1 alumno05 alumno05 642944 Dec  9 13:13 Sample2.fastq
+-rw-rw-r--. 1 alumno05 alumno05 717374 Dec  9 13:13 Sample3.fastq
+-rw-rw-r--. 1 alumno05 alumno05 654600 Dec  9 13:13 Sample4.fastq
