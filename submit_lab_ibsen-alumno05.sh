@@ -2,8 +2,8 @@
 #SBATCH -J lab3-cut-job
 #SBATCH -p hpc-bio-mendel
 #SBATCH --chdir=/home/alumno05/Lab3_Antonio/lab-git
-#SBATCH -n 4                     # 4 tareas en paralelo
-#SBATCH --cpus-per-task=2        # cada tarea usa 2 cores
+#SBATCH --ntasks=4   # 4 tareas en paralelo
+#SBATCH --cpus-per-task=1   # cada tarea usa 1 core
 
 set -euo pipefail
 
